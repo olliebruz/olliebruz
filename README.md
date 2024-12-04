@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @olliebruz
-- 👀 I’m interested in machine learning, Stephen Curry, Wardell Stephen Curry, The Chef and Baby Faced Assassin.
-- 🌱 I’m currently learning the bits and bobs of computer science.
-- 💞️ I’m looking to collaborate on anything although I'm not the greatest coder.
-- 📫 How to reach me... 
-- 😄 Pronouns: They/Them
-- ⚡ Fun fact: Put it on greg.
+### Hi there! 👋 I'm Ollie  
+🌟 **Aspiring Computer Scientist** | **Machine Learning Enthusiast**  
 
-<!---
-olliebruz/olliebruz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m passionate about exploring cutting-edge technologies, particularly in machine learning and AI.  
+- 🌱 Currently diving deeper into algorithms, data structures, and full-stack development.  
+- 💞️ Open to collaboration on projects related to software development, data analysis, and artificial intelligence.   
+- ⚡ **Fun Fact**: I love basketball as much as I love programming
+
