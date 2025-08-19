@@ -1,4 +1,4 @@
-### Hi there! 👋 I'm Ollie  
+### Hi there! 👋 I'm Oliver
 🌟 **Aspiring Computer Scientist** | **Machine Learning Enthusiast**  
 
 - 👀 I’m passionate about exploring cutting-edge technologies, particularly in machine learning and AI.  
